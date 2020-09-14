@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Críticas de cinema</string>
+    <string name="error_unknown">Erro desconhecido</string>
+    <string name="error_loading_data">Erro ao carregar os dados</string>
+    <string name="label_author">Por %s</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="title_favorites">Favoritos</string>
+    <string name="label_favorite_reviews">Críticas favoritas</string>
+    <string name="empty_favorite_list">Nenhum favorito adicionado ainda</string>
+    <string name="label_search">Buscar</string>
+    <string name="label_try_again">Tente novamente</string>
+</resources>

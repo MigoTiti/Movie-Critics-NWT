@@ -1,4 +1,4 @@
-# Movie-Critics-NWT
+# Movie-Critics-NYT
 
 Projeto para o teste prático da your/dev, usando a API de movie reviews do New York Times 
 

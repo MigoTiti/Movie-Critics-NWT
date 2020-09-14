@@ -13,4 +13,8 @@ class DataBindingViewHolder(private val binding: ViewDataBinding) :
         binding.setVariable(BR.onClick, onClick)
         binding.executePendingBindings()
     }
+
+    fun clearAnimation() {
+        binding.root.clearAnimation()
+    }
 }
